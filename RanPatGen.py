@@ -1,7 +1,7 @@
 import turtle
 from random import randint
 turtle.speed(0)
-turtle.bgcolor('black')
+turtle.bgcolor('#00FFFFFF')
 x=1
 while x < 300:
     r=randint(0,255)
